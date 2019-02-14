@@ -1,0 +1,4 @@
+1. Noise in GP:
+	Is it constant or does it get updated ?
+2. How does acquisition function update effect it ?
+
