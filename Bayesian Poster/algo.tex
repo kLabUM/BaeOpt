@@ -1,0 +1,21 @@
+\documentclass[10pt]{article}
+\usepackage[usenames]{color} %used for font color
+\usepackage{amssymb} %maths
+\usepackage{amsmath} %maths
+\usepackage[utf8]{inputenc} %useful to type directly diacritic characters
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\begin{document}
+\begin{algorithm}
+\caption{Bayesian Optimization}
+\label{Bayes}
+\begin{algorithmic}[1]
+	\For{t=1,2,3, \ldots}
+		\State Identify $\mathbf{x}_{t}$ by optimizing acquisition function ($u$) over the solution space $\mathbf{x}_{t}=\operatorname{argmax}_{\mathbf{x}} u\left(\mathbf{x} | \mathcal{D}_{1 : t-1}\right)$
+		\State Sample the objective function, $y_t = f(\mathbf{x}_{t}) + \epsilon$ 
+		\State Augment the data $\mathcal{D}_{1 : t}=\left\{\mathcal{D}_{1 : t-1},\left(\mathbf{x}_{t}, y_{t}\right)\right\}$ and update GP
+	\EndFor
+\end{algorithmic}
+\end{algorithm}
+
+\end{document}

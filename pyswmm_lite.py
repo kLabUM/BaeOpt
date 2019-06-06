@@ -35,11 +35,17 @@ class Env:
     def set_precip(self, subcatchment_id):
         pass
 
+    def get_inflow(self, node):
+        return self.sim._model.getNodeResult(node, 0)
+
     def get_gate(self, orifice):
         return self.sim._model.getLinkResult(orifice, 6)
 
     def set_gate(self, orifice, gate):
         self.sim._model.setLinkSetting(orifice, gate)
+
+    def get_flooding(self, node):
+        return self.sim._model.getNodeResult(node, 4)
 
     def get_pollutant_node(self, node):
         return self.sim._model.getNodeResult(node, 100)
