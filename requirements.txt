@@ -1,4 +1,5 @@
 numpy
 scipy 
 matplotlib
-pyswmm
+pyswmm_lite
+gpyopt
