@@ -1,5 +1,5 @@
-# Pyswmm engine with ICC
 from pyswmm_lite import environment
+import pystorms
 import numpy as np
 import os
 
@@ -37,7 +37,7 @@ def ParallelNetwork(valve_set1, valve_set2):
 
 
 def SinglePond(valve_set1):
-    path = os.path.abspath(os.path.dirname(__file__)) + "/networks/aa_0360min_025yr.inp"
+    path = os.path.abspath(os.path.dirname(__file__)) + "/networks/parallel.inp"
     env = environment(path, False)
 
     flow = np.sin(np.linspace(0.0, 1.0, 100) * np.pi) * 3.0  # Half sine wave
@@ -64,27 +64,22 @@ def SinglePond(valve_set1):
     return data["outflow"], sum(data["overflow1"])
 
 
-def AASinglePond(valve_set1):
-    path = os.path.abspath(os.path.dirname(__file__)) + "/networks/aa_0360min_025yr.inp"
-    env = environment(path, False)
-    data = {}
-    data["outflow"] = []
-    data["overflow1"] = []
-    data["depth"] = []
+def GammaSinglePond(valve_setting):
+    env = pystorms.scenarios.gamma()
+    done = False
 
-    for time in range(0, 35000):
-        # set the gate_position
-        env._setValvePosition("OR48", valve_set1)
-        # record_data
-        data["outflow"].append(env.methods["flow"]("OR48"))
-        data["overflow1"].append(env.methods["flooding"]("93-50077"))
-        data["depth"].append(env.methods["depthN"]("93-50077"))
+    # Update the datalog to add depth
+    env.data_log["depthN"] = {"1": []}
+
+    # Set actions
+    actions = np.ones(11)
+    actions[0] = valve_setting
+
+    while not done:
         # step through simulation
-        env.step()
+        done = env.step(actions)
 
-    env._terminate()
-
-    return data["outflow"], sum(data["overflow1"]), data["depth"]
+    return env.data_log
 
 
 def test_ParallelNetwork():
