@@ -77,7 +77,7 @@ myBopt = BayesianOptimization(
 )
 
 log = myBopt.run_optimization(
-    "./ckpts1/",
+    "./ckpts2-test/",
     max_iter=250,
     save_inter_models=True,
     intervals=25,
