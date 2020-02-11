@@ -4,7 +4,8 @@ Scalability of the approach is evaluated using the performance of the controller
 
 - 5 random seeds
 - With termination condition- eps of 0.01 or 500 acquisitions.
-- This has to be run on the same processor. 
+- This has to be run on the same processor. So that they are evaluated on the same cpu metrics.
+- Flux for a week.
 
 ## Why?
 

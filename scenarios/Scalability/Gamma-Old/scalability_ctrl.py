@@ -5,7 +5,7 @@ import sys
 # Meta data for the analysis
 np.random.seed(42)
 controller = int(sys.argv[1])
-sds = np.random.choice(1000, 42)
+sds = np.random.choice(1000, 5)
 itr_counter = 200
 interval = 50
 
