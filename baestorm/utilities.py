@@ -1,6 +1,12 @@
 from pyswmm_lite import environment
 import numpy as np
 import pandas as pd
+import os
+
+
+def load_networks(network):
+    path = os.path.abspath(os.path.dirname(__file__)) + "/networks/" + network + ".inp"
+    return path
 
 
 def meta_data_aa():
@@ -103,7 +109,7 @@ def performance_metric(data, threshold=4.5, verbose=True):
     if flooding.any():
         if verbose:
             # TODO print the quantity of flooding
-            _idx = flooding[flooding == True].index
+            _idx = flooding[flooding is True].index
             print("Nodes with flooding: {}".format(_idx))
         perforamce += np.inf
     # Estimate the perfomance from the flows
@@ -189,7 +195,10 @@ def generate_waves(window_length, cycles, magnitude=1.0):
     """
     half_wave = (
         np.hstack(
-            (np.sin(np.linspace(0, 1.0, window_length) * np.pi), np.zeros([window_length]))
+            (
+                np.sin(np.linspace(0, 1.0, window_length) * np.pi),
+                np.zeros([window_length]),
+            )
         )
         * magnitude
     )
