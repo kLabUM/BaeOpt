@@ -1,7 +1,7 @@
 # Uncertanity Quanitfucation using Bayesian Optimization and GP
 
 ## Things to note:
-
+        - Stormwater example might not be the best sample. Need to think of a better example.
 ### Gaussian Processes:
 #### Hyperparameters
         - They are sensitive to the choice of the hyperparameters. Hence, the quality of the GP depends on the optimization approach used for estimating these hyperparameters.
@@ -22,3 +22,4 @@
     - Uncertanity quantification with single basin 
     - Uncertanity quantification with AA network
     - Generate sameples using Brandon uncertanity paper
+2. May be use two kernels to get the noise and mean better
