@@ -1,6 +1,7 @@
 # Uncertanity Quanitfucation using Bayesian Optimization and GP
 
 ## Things to note:
+### Stromwater Example:
         - Stormwater example might not be the best sample. Need to think of a better example.
 ### Gaussian Processes:
 #### Hyperparameters
@@ -14,7 +15,25 @@
         - Noise estimated by the Bayesian Optimization is not exactly the same as that of the uncertanity in the objective function. 
         - This may be due to how samples are generated, and the optimization approach being used to search the hyperparameter space. 
         - Increasing the sample count will help us estimate the uncertanity. But as the solution space increases, we cannot sample all the space to learn the exact uncertanity. Hence, GP might be a resonable approach to learn the how the solution space looks like.
-        
+
+## Log:
+
+In our current approach we assume that data has a uniform noise. 
+$$ f(x) = g(x) + N(\mu, \sigma)$$
+In the context of stormwater systems, when we are choosing an action $x$, say to close all valves, then the performance we observe is only proportional to the $x$, because rainevents (even though being sampled) are uniform for all the action. If we sample enough times the depedncy on rain will go away. So we can (may be) say that uncertanity of associated with rainfall is dependent on the inputs.
+$$ N \propto x$$
+So we can use hetrostocastic GP to estimate the uncertanity, which can then be coupled with a acquision function that samples the points multiple times.
+
+
+
+**Pro/Con - Using a rain which is input dependent**
+Pro:
+1. When uniformly sampled, we would be weighting the rain event that is most probable and the rain event that is highly unlikely, by a similar magnitude. Hence, we end with a conservative solution.
+    
+Cons:
+1. Complication 
+
+
 ## Things to do:
 1. Reorganize the notes books to be more cohesive.
     - GP implementation 
@@ -23,3 +42,4 @@
     - Uncertanity quantification with AA network
     - Generate sameples using Brandon uncertanity paper
 2. May be use two kernels to get the noise and mean better
+3. Figure out hetroscodastic gaussian processes.
