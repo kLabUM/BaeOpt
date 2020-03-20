@@ -24,14 +24,20 @@ In the context of stormwater systems, when we are choosing an action $x$, say to
 $$ N \propto x$$
 So we can use hetrostocastic GP to estimate the uncertanity, which can then be coupled with a acquision function that samples the points multiple times.
 
+But we cannot EI as the acquisition function. We need a function for identifying a new sample when there is noise. 
+This is where we can use knowledge graidient. 
 
+**Combining KG and Hetroscodastic GP, we can propagate the uncertanity though the simulation engine.**
 
-**Pro/Con - Using a rain which is input dependent**
-Pro:
-1. When uniformly sampled, we would be weighting the rain event that is most probable and the rain event that is highly unlikely, by a similar magnitude. Hence, we end with a conservative solution.
-    
-Cons:
-1. Complication 
+-----------
+
+#### Sampling rainfall distributions for quantifying uncertanity
+
+| Pro | Cons |
+| --- | -----|
+|When uniformly sampled, we would be weighting the rain event that is most probable and the rain event that is highly unlikely, by a similar magnitude. Hence, we end with a conservative solution. | Complicated and requires a bit of math |
+
+-----------
 
 
 ## Things to do:
@@ -41,5 +47,14 @@ Cons:
     - Uncertanity quantification with single basin 
     - Uncertanity quantification with AA network
     - Generate sameples using Brandon uncertanity paper
-2. May be use two kernels to get the noise and mean better
-3. Figure out hetroscodastic gaussian processes.
+
+
+--------------
+## Things to ask BK.
+1. Ive had a issue with getting GPs to learn noise. Hetro-GP can be used to learn the noise. 
+2. Using generic acquision function might not be the best way to generate samples as that function does not explicitly account for noise. Hence, we might need to use knowledge gradient for doing the new samples.
+3. Now I am able to quantify uncertanity for two dimension, I dont know how to present it for more than three dimensions. But on the other end, for this case we might be ok.
+4. Do we want to demonstrate this for a actual network or synthetic network? Mainly because, this is a methodology, it is independent of the system being used. I am thinking we can use the beta network which is two ponds. 
+5. There is already a lot of stuff in the paper. Might be ok.
+6. Do we need to verify it? I think having a synth example might be enable us to do so.
+
