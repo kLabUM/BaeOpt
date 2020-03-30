@@ -29,6 +29,10 @@ This is where we can use knowledge graidient.
 
 **Combining KG and Hetroscodastic GP, we can propagate the uncertanity though the simulation engine.**
 
+Though we can use KG, it might be too much for the paper. For now, we can just use expected improvement and be ok with it. 
+
+For the example, we shall consider a synthetic example. Where we have two ponds with syth flows. 
+
 -----------
 
 #### Sampling rainfall distributions for quantifying uncertanity
@@ -49,12 +53,4 @@ This is where we can use knowledge graidient.
     - Generate sameples using Brandon uncertanity paper
 
 
---------------
-## Things to ask BK.
-1. Ive had a issue with getting GPs to learn noise. Hetro-GP can be used to learn the noise. 
-2. Using generic acquision function might not be the best way to generate samples as that function does not explicitly account for noise. Hence, we might need to use knowledge gradient for doing the new samples.
-3. Now I am able to quantify uncertanity for two dimension, I dont know how to present it for more than three dimensions. But on the other end, for this case we might be ok.
-4. Do we want to demonstrate this for a actual network or synthetic network? Mainly because, this is a methodology, it is independent of the system being used. I am thinking we can use the beta network which is two ponds. 
-5. There is already a lot of stuff in the paper. Might be ok.
-6. Do we need to verify it? I think having a synth example might be enable us to do so.
 
