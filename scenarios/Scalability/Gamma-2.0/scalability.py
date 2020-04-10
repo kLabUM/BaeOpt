@@ -74,9 +74,9 @@ myBopt = BayesianOptimization(
 myBopt.run_optimization(
     save_path,
     report_file=save_path + "_report.txt",
-    max_iter=20,
+    max_iter=number_iter,
     save_inter_models=True,
     intervals=number_iter,
     verbosity=True,
-    eps=0.10,
+    eps=0.01,
 )

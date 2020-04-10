@@ -52,5 +52,16 @@ For the example, we shall consider a synthetic example. Where we have two ponds 
     - Uncertanity quantification with AA network
     - Generate sameples using Brandon uncertanity paper
 
+-----------
+There might be two things happening. 
 
+My inital hypothesis was that the randomness would be proportional to the control action. But may be not. 
+
+When you take a action, the response you see is can be anything. Sort of like a stochatic slot machine. We know the priors on the machine. Like the mean and variance of the rainevent. But when we are quantifying it. Does it depend on actions ?
+
+Let me be 100% on it not quantifying uncertanity.
+Generate samples and train hetrogp on it see if it is able to get the emperical results.
+
+1. The noise is not dependent on input
+2. 
 
