@@ -1,10 +1,8 @@
-import numpy as np
-from pyswmm_lite import environment
-import baestorm
-import GPy
 import abc
-from six import with_metaclass
+import GPy
 import copy
+import numpy as np
+from six import with_metaclass
 
 
 class BOModel(with_metaclass(abc.ABCMeta, object)):
@@ -34,64 +32,6 @@ class BOModel(with_metaclass(abc.ABCMeta, object)):
     def get_fmin(self):
         "Get the minimum of the current model."
         return
-
-
-# Generate Gaussian Flows
-def GaussianSignal(x, amplitude, timetopeak, dispersion):
-    flows = (
-        amplitude
-        * (1.0 / (dispersion * (np.sqrt(2.0 * np.pi))))
-        * np.exp(-0.5 * ((x - timetopeak) / dispersion) ** 2)
-    )
-    return flows
-
-
-# Objective function
-def ObjectiveFunction(actions):
-    # Sample the rainevent
-    padding_length = 500
-    temp_x = np.linspace(-10.0, 10.0, 100)
-
-    def flows_amp(amp):
-        return np.pad(
-            GaussianSignal(temp_x, amp, -2.0, 3.0), (0, padding_length), "constant"
-        )
-
-    # Pick a random stormevent - Uniformly Sampled
-    amplitude = np.random.choice(np.linspace(5.0, 10.0, 10), size=1)
-    flows = flows_amp(amplitude)
-    env = environment(baestorm.load_networks("parallel"), False)
-
-    reward = 0.0
-    for time in range(0, len(flows)):
-        # Set the gata position
-        env._setValvePosition("1", actions[0])
-        env._setValvePosition("2", actions[1])
-
-        # Set inflows
-        env.sim._model.setNodeInflow("P1", flows[time])
-        env.sim._model.setNodeInflow("P2", flows[time])
-
-        # compute performance
-        flow = env.methods["flow"]("8")
-        if flow > 0.50:
-            reward += 10.0 * (flow - 0.50)
-        else:
-            reward += 0.0
-
-        if (
-            env.sim._model.getNodeResult("P1", 4)
-            + env.sim._model.getNodeResult("P2", 4)
-            > 0.0
-        ):
-            reward += 10 ** 5
-        else:
-            reward += 0.0
-
-        # Record data
-        _ = env.step()
-    env._terminate()
-    return reward
 
 
 # Setup the Gaussain Process for quantifying the error
@@ -181,7 +121,7 @@ class GPModel_Hetro(BOModel):
             )  # constrain_positive(warning=False)
 
     def updateModel(
-        self, X_all, Y_all, X_new, Y_new, samples=10, iterations=100, epsilon=0.01
+        self, X_all, Y_all, X_new, Y_new, samples=25, iterations=2, epsilon=1.0
     ):
         """
         Updates the model with new observations.
@@ -241,7 +181,7 @@ class GPModel_Hetro(BOModel):
                 messages=False,
                 ipython_notebook=False,
             )
-            gp2.optimize_restarts(num_restarts=10)
+            gp2.optimize_restarts(num_restarts=1, messages=False)
             # gp2.optimize_restarts(num_restarts=5)
             m_n, v_n = gp2.predict(X_all)
             # Step-3:
@@ -252,7 +192,7 @@ class GPModel_Hetro(BOModel):
                 messages=False,
                 ipython_notebook=False,
             )
-            gp3.optimize_restarts(num_restarts=10)
+            gp3.optimize_restarts(num_restarts=10, messages=False)
             gp3.kern.parts[1].variance = np.exp(m_n).reshape(X_all.shape[0])
 
             m, v = gp3.predict(X_all)
