@@ -62,6 +62,12 @@ When you take a action, the response you see is can be anything. Sort of like a 
 Let me be 100% on it not quantifying uncertanity.
 Generate samples and train hetrogp on it see if it is able to get the emperical results.
 
-1. The noise is not dependent on input
-2. 
+On training the hetro GP with the emperical data, It is able to learn the noise in the data. But we have to be careful with the how we define objective function. Having a soft-thershold has helped learning the objective function better.
 
+There are two ways we can quantify the objective function. 
+We can use Vanilla GP for the obejctive, then update the limits on the uncertanity estimates using Hetro GP. 
+
+Why would we prefer one over the other?
+- I dont know.
+
+1. It would be more stable and computationally more effiecent.ate
