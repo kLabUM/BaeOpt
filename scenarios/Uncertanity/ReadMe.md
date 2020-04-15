@@ -1,4 +1,4 @@
-# Uncertanity Quanitfucation using Bayesian Optimization and GP
+[[#]] [[Uncertanity]] Quanitfucation using Bayesian Optimization and GP
 
 ## Things to note:
 ### Stromwater Example:
@@ -70,4 +70,5 @@ We can use Vanilla GP for the obejctive, then update the limits on the uncertani
 Why would we prefer one over the other?
 - I dont know.
 
-1. It would be more stable and computationally more effiecent.ate
+1. It would be more stable and computationally more effiecent.
+2. It would be more straight forward. 
