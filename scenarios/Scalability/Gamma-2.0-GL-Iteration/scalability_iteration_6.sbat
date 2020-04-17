@@ -1,0 +1,23 @@
+#!/bin/bash
+##“#SBATCH” directives that convey submission options:
+##### The name of the job
+#SBATCH --job-name=SCALABILITY_Iter_6
+##### When to send e-mail: pick from NONE, BEGIN, END, FAIL, REQUEUE, ALL
+#SBATCH --mail-type=END,FAIL
+##### Resources for your job
+# number of physical nodes
+#SBATCH --nodes=1
+# number of task per a node (number of CPU-cores per a node)
+#SBATCH --ntasks-per-node=1
+# memory per a CPU-core
+#SBATCH --mem-per-cpu=1000m
+##### Maximum amount of time the job will be allowed to run
+##### Recommended formats: MM:SS, HH:MM:SS, DD-HH:MM
+#SBATCH --time=02-00:00
+##### The resource account; who pays
+#SBATCH --account=bkerkez1
+########## End of preamble! #########################################
+# No need to “cd”. Slurm starts the job in the submission directory. 
+#####################################################################
+# The application(s) to execute along with its input arguments and options:
+python scalability_simulation_master.py  -ctrl 6
