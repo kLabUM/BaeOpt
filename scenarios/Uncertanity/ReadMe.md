@@ -62,6 +62,12 @@ When you take a action, the response you see is can be anything. Sort of like a 
 Let me be 100% on it not quantifying uncertanity.
 Generate samples and train hetrogp on it see if it is able to get the emperical results.
 
+
+
+Otherway to looking at it.
+
+We use the geneirc gaussian process for bayesian optimization and then update the objective function to have better estimates on uncertainity.
+
 On training the hetro GP with the emperical data, It is able to learn the noise in the data. But we have to be careful with the how we define objective function. Having a soft-thershold has helped learning the objective function better.
 
 There are two ways we can quantify the objective function. 
@@ -72,3 +78,9 @@ Why would we prefer one over the other?
 
 1. It would be more stable and computationally more effiecent.
 2. It would be more straight forward. 
+
+We need to sure that everything is working.
+
+### New plan of action 
+1. Generate data using mutiple objective functions and then fit them using hetroGP.
+

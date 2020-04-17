@@ -13,3 +13,6 @@ Scalability of the approach is evaluated using the performance of the controller
 2. It is easy to scale, but as you scale up, these are the problems you run into. 
 
 We do not want to think about the choice of ideal controller placement problem. That would involve us to exhaustively simulate everything that is happing and pick the best.
+
+
+Add the mallets example/
