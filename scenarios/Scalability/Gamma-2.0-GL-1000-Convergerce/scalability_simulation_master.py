@@ -11,10 +11,10 @@ ctrl_elements = args.ctrl[0]
 
 # Meta data for the analysis
 np.random.seed(42)
-sds = np.random.choice(1000, 10)
-itr_numbers = [200, 300, 400, 500]
+sds = np.random.choice(1000, 5)
+itr_numbers = [1000]
 
-for itr_counter in [200, 300, 400, 500]:
+for itr_counter in itr_numbers:
     for i in sds:
         os.system(
             "python scalability.py -seed {} -ctrl {} -iter {}".format(

@@ -59,7 +59,7 @@ number_iter = args.iters[0]
 
 # Set the random seed
 np.random.seed(random_seed)
-save_path = "./" + str(random_seed) + "_" + str(ctrl_elements) + "_" + str(number_iter) + "_Scalability"
+save_path = "./" + str(random_seed) + "_" + str(ctrl_elements) + "_Scalability"
 os.mkdir(save_path)
 # Create the domain
 domain = []
@@ -78,5 +78,5 @@ myBopt.run_optimization(
     save_inter_models=True,
     intervals=200,
     verbosity=True,
-    eps=10**-7,
+    eps=10**-5,
 )
