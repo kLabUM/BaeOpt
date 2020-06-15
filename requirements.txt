@@ -1,5 +1,0 @@
-numpy
-scipy 
-matplotlib
-pyswmm_lite
-gpyopt
