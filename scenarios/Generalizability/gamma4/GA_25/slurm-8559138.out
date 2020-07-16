@@ -1,0 +1,1457 @@
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 21261.815687143633
+  Max 39473.80277260584
+  Avg 26739.843789981096
+  Std 6342.787353064826
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 20502.253877838153
+  Max 26762.53370771611
+  Avg 22180.57253424271
+  Std 2053.3941031014006
+-- Generation 3 --
+  Evaluated 10 individuals
+  Min 20502.253877838153
+  Max 430395423.5138745
+  Avg 43058222.24842028
+  Std 129112400.42226489
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.17419674 0.11081888 0.         0.64833281], (20502.253877838153,)
+{'Total_evaluations': 25, 'Best_action': [0.17419673993124207, 0.11081888126801664, 0.0, 0.6483328101184732], 'Minima': 20502.253877838153}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 9 individuals
+  Min 6397.213573133064
+  Max 51606.492175766194
+  Avg 17973.12099724156
+  Std 13837.206920220131
+-- Generation 2 --
+  Evaluated 9 individuals
+  Min 6397.213573133064
+  Max 6673.135168627065
+  Avg 6466.618445870483
+  Std 108.84704592893198
+-- Generation 3 --
+  Evaluated 7 individuals
+  Min 6397.213573133064
+  Max 242138488.14169154
+  Avg 24219606.30638497
+  Std 72639627.27843554
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.2515633  0.854093   0.83625398 0.0662541 ], (6397.213573133064,)
+{'Total_evaluations': 25, 'Best_action': [0.25156329854847614, 0.8540930004920158, 0.8362539778522589, 0.06625409996146747], 'Minima': 6397.213573133064}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 8 individuals
+  Min 10140.328701740227
+  Max 24515.656332305236
+  Avg 15450.286789456015
+  Std 5154.847130890434
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 10140.328701740227
+  Max 16537.690933642698
+  Avg 11117.59895237771
+  Std 1837.7985561566984
+-- Generation 3 --
+  Evaluated 5 individuals
+  Min 10140.328701740227
+  Max 56439840.21183855
+  Avg 5653229.788500545
+  Std 16928870.142752107
+-- End of (successful) evolution --
+Total evaluations: 20 
+
+Best individual is [0.44121106 0.22020668 0.04269351 0.20842327], (10140.328701740227,)
+{'Total_evaluations': 20, 'Best_action': [0.4412110590083844, 0.22020668096162965, 0.042693512525650235, 0.2084232700039067], 'Minima': 10140.328701740227}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 5340.73446911731
+  Max 47878.6738112272
+  Avg 22667.08880344853
+  Std 15369.980839062833
+-- Generation 2 --
+  Evaluated 6 individuals
+  Min 5340.73446911731
+  Max 14418.7616781091
+  Avg 8109.209123059745
+  Std 3589.775252655576
+-- Generation 3 --
+  Evaluated 7 individuals
+  Min 5231.282270720665
+  Max 5682.859905969997
+  Avg 5398.214336648183
+  Std 145.9589192559041
+-- End of (successful) evolution --
+Total evaluations: 20 
+
+Best individual is [0.15186163 0.63605484 0.87102331 0.21449703], (5231.282270720665,)
+{'Total_evaluations': 20, 'Best_action': [0.15186163136839015, 0.6360548363286321, 0.8710233090924954, 0.21449703455044478], 'Minima': 5231.282270720665}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 10 individuals
+  Min 1378.1114490765922
+  Max 789810189.661898
+  Avg 78998538.80961888
+  Std 236937217.2848554
+-- Generation 2 --
+  Evaluated 9 individuals
+  Min 1378.1114490765922
+  Max 28444.968858714336
+  Avg 15178.313350700535
+  Std 9160.45358191576
+-- Generation 3 --
+  Evaluated 8 individuals
+  Min 1378.1114490765922
+  Max 22968.344361925883
+  Avg 7177.795608292127
+  Std 8263.321766249264
+-- End of (successful) evolution --
+Total evaluations: 27 
+
+Best individual is [0.23156735 0.77327427 0.76289505 0.27985321], (1378.1114490765922,)
+{'Total_evaluations': 27, 'Best_action': [0.23156734593376105, 0.7732742734543422, 0.7628950529059627, 0.27985320941194014], 'Minima': 1378.1114490765922}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 939.9883291906825
+  Max 248122353.06973815
+  Avg 24818519.643203106
+  Std 74434611.45477654
+-- Generation 2 --
+  Evaluated 10 individuals
+  Min 939.9883291906825
+  Max 19201.080562528565
+  Avg 6812.4913356180405
+  Std 5891.56332316498
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 939.9883291906825
+  Max 9528.906521756258
+  Avg 2657.7719677037967
+  Std 3435.56727702623
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.37336236 0.61180503 0.49003765 0.27797438], (939.9883291906825,)
+{'Total_evaluations': 25, 'Best_action': [0.37336236173300064, 0.6118050291314198, 0.4900376459747553, 0.2779743777984649], 'Minima': 939.9883291906825}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 2335.923033917302
+  Max 17878.86746974246
+  Avg 9051.424404999785
+  Std 5968.33725895555
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 2335.923033917302
+  Max 17415.85422240498
+  Avg 5938.622165090972
+  Std 4445.9697299991285
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 2335.923033917302
+  Max 7830.521010589857
+  Avg 3055.1329015157467
+  Std 1611.7934640790834
+-- End of (successful) evolution --
+Total evaluations: 24 
+
+Best individual is [0.26272728 0.59321321 0.3259458  0.19910495], (2335.923033917302,)
+{'Total_evaluations': 24, 'Best_action': [0.2627272816340184, 0.5932132124244804, 0.3259458044213931, 0.1991049460580756], 'Minima': 2335.923033917302}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 251.2683199460895
+  Max 16413.977950782417
+  Avg 11291.279226762746
+  Std 4225.489610373343
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 251.2683199460895
+  Max 13723.789380401837
+  Avg 3859.087271927447
+  Std 4990.316368677568
+-- Generation 3 --
+  Evaluated 5 individuals
+  Min 251.2683199460895
+  Max 9462.915585700597
+  Avg 2108.554587710081
+  Std 3677.4466484703084
+-- End of (successful) evolution --
+Total evaluations: 19 
+
+Best individual is [0.3011237  0.45239103 0.53276448 0.27303969], (251.2683199460895,)
+{'Total_evaluations': 19, 'Best_action': [0.30112369986988063, 0.45239103297335725, 0.5327644844955693, 0.2730396928962988], 'Minima': 251.2683199460895}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 10 individuals
+  Min 5640.178306776662
+  Max 111359195.26735012
+  Avg 11157921.70734636
+  Std 33400428.009281706
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 5640.178306776662
+  Max 638827008.2811202
+  Avg 63897284.30459436
+  Std 191643241.604791
+-- Generation 3 --
+  Evaluated 8 individuals
+  Min 5640.178306776662
+  Max 14508.593975961001
+  Avg 6588.096523428183
+  Std 2641.2754224011887
+-- End of (successful) evolution --
+Total evaluations: 26 
+
+Best individual is [0.14448461 0.36949848 0.60945712 0.20987257], (5640.178306776662,)
+{'Total_evaluations': 26, 'Best_action': [0.14448460533387775, 0.3694984795055918, 0.609457124156595, 0.20987257380775826], 'Minima': 5640.178306776662}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 10 individuals
+  Min 5640.178306776662
+  Max 111359195.26735012
+  Avg 11157921.70734636
+  Std 33400428.009281706
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 5640.178306776662
+  Max 638827008.2811202
+  Avg 63897284.30459436
+  Std 191643241.604791
+-- Generation 3 --
+  Evaluated 8 individuals
+  Min 5640.178306776662
+  Max 14508.593975961001
+  Avg 6588.096523428183
+  Std 2641.2754224011887
+-- End of (successful) evolution --
+Total evaluations: 26 
+
+Best individual is [0.14448461 0.36949848 0.60945712 0.20987257], (5640.178306776662,)
+{'Total_evaluations': 26, 'Best_action': [0.14448460533387775, 0.3694984795055918, 0.609457124156595, 0.20987257380775826], 'Minima': 5640.178306776662}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 4603.89015046153
+  Max 34011.5402002152
+  Avg 13019.817422966738
+  Std 10506.434868626244
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 4362.867582390626
+  Max 19294.313101320895
+  Avg 7979.980242692864
+  Std 5822.797092467084
+-- Generation 3 --
+  Evaluated 10 individuals
+  Min 4362.867582390626
+  Max 416266992.9849573
+  Avg 41631433.85294598
+  Std 124878519.72429094
+-- End of (successful) evolution --
+Total evaluations: 24 
+
+Best individual is [0.30893676 0.79817936 0.6239659  0.1095071 ], (4362.867582390626,)
+{'Total_evaluations': 24, 'Best_action': [0.30893676366452894, 0.7981793639821857, 0.6239658990810621, 0.10950710379276463], 'Minima': 4362.867582390626}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 9 individuals
+  Min 13085.618983684799
+  Max 30770.198275436986
+  Avg 23358.006666782025
+  Std 6672.168538768121
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 13085.618983684799
+  Max 364160772.5927262
+  Avg 38803409.304060794
+  Std 108683059.2081788
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 13085.618983684799
+  Max 364160772.5927262
+  Avg 37894673.727561906
+  Std 108843114.31679632
+-- End of (successful) evolution --
+Total evaluations: 26 
+
+Best individual is [0.04441364 0.69876372 0.13351211 0.18940359], (13085.618983684799,)
+{'Total_evaluations': 26, 'Best_action': [0.04441363873434934, 0.6987637189615652, 0.13351211405120378, 0.18940358734775709], 'Minima': 13085.618983684799}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 8 individuals
+  Min 17026.218325345537
+  Max 696325300.8820957
+  Avg 69660753.6281743
+  Std 208888183.24950784
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 17026.218325345537
+  Max 26819.44881712154
+  Avg 19254.158638272067
+  Std 3302.6977899629424
+-- Generation 3 --
+  Evaluated 5 individuals
+  Min 17026.218325345537
+  Max 49680.28085606583
+  Avg 21289.70414292593
+  Std 9667.475437617462
+-- End of (successful) evolution --
+Total evaluations: 20 
+
+Best individual is [0.33210217 0.43980134 0.         0.53274798], (17026.218325345537,)
+{'Total_evaluations': 20, 'Best_action': [0.33210216729275965, 0.4398013367394036, 0.0, 0.5327479811693683], 'Minima': 17026.218325345537}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 8 individuals
+  Min 6646.715256614374
+  Max 630716147.9445788
+  Avg 138039054.4619112
+  Std 215969787.10508376
+-- Generation 2 --
+  Evaluated 6 individuals
+  Min 6646.715256614374
+  Max 99174869.14035165
+  Avg 9937355.072994154
+  Std 29745844.544248994
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 6646.715256614374
+  Max 63073.296056421925
+  Avg 12587.059097870928
+  Std 16852.132958413
+-- End of (successful) evolution --
+Total evaluations: 23 
+
+Best individual is [0.12749534 0.22064486 0.79098904 0.19802257], (6646.715256614374,)
+{'Total_evaluations': 23, 'Best_action': [0.12749534009772823, 0.22064485914448861, 0.7909890387518833, 0.19802256998212397], 'Minima': 6646.715256614374}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 8 individuals
+  Min 12250.220622632874
+  Max 148674585.37575972
+  Avg 23805700.75834217
+  Std 49369416.72786091
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 12250.220622632874
+  Max 38227.43763281396
+  Avg 24462.627209712173
+  Std 8912.892479574617
+-- Generation 3 --
+  Evaluated 10 individuals
+  Min 11404.452033532145
+  Max 26743.827391672774
+  Avg 17963.086471338764
+  Std 7173.600986641537
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.2722451  0.75403436 0.35480462 0.45143541], (11404.452033532145,)
+{'Total_evaluations': 25, 'Best_action': [0.27224509853552814, 0.7540343556015813, 0.354804624272396, 0.4514354067799593], 'Minima': 11404.452033532145}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 8 individuals
+  Min 9440.38534164186
+  Max 87807.28216380355
+  Avg 23681.82758648076
+  Std 22532.99163958497
+-- Generation 2 --
+  Evaluated 10 individuals
+  Min 9440.38534164186
+  Max 19999.997406333823
+  Avg 11223.205590774643
+  Std 3070.6258822983395
+-- Generation 3 --
+  Evaluated 6 individuals
+  Min 9440.38534164186
+  Max 237732151.83014828
+  Avg 23781739.638406716
+  Std 71316804.06396307
+-- End of (successful) evolution --
+Total evaluations: 24 
+
+Best individual is [0.08154089 0.65215519 0.24001425 0.30675454], (9440.38534164186,)
+{'Total_evaluations': 24, 'Best_action': [0.08154088771153456, 0.652155187035294, 0.24001425250582753, 0.30675453764867566], 'Minima': 9440.38534164186}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 7080.869857708934
+  Max 15086.876568901198
+  Avg 11070.30924444732
+  Std 2334.8938550434514
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 7080.869857708934
+  Max 11799.559457988244
+  Avg 9130.737696127206
+  Std 2062.017270483205
+-- Generation 3 --
+  Evaluated 6 individuals
+  Min 7080.869857708934
+  Max 11799.559457988244
+  Avg 8807.782053500825
+  Std 2128.3751402873663
+-- End of (successful) evolution --
+Total evaluations: 21 
+
+Best individual is [0.45102214 0.86466562 0.61002135 0.13963146], (7080.869857708934,)
+{'Total_evaluations': 21, 'Best_action': [0.4510221368237919, 0.8646656167445498, 0.6100213488499489, 0.1396314645089367], 'Minima': 7080.869857708934}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 4603.89015046153
+  Max 34011.5402002152
+  Avg 13019.817422966738
+  Std 10506.434868626244
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 4362.867582390626
+  Max 19294.313101320895
+  Avg 7979.980242692864
+  Std 5822.797092467084
+-- Generation 3 --
+  Evaluated 10 individuals
+  Min 4362.867582390626
+  Max 416266992.9849573
+  Avg 41631433.85294598
+  Std 124878519.72429094
+-- End of (successful) evolution --
+Total evaluations: 24 
+
+Best individual is [0.30893676 0.79817936 0.6239659  0.1095071 ], (4362.867582390626,)
+{'Total_evaluations': 24, 'Best_action': [0.30893676366452894, 0.7981793639821857, 0.6239658990810621, 0.10950710379276463], 'Minima': 4362.867582390626}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 10 individuals
+  Min 8843.926954160928
+  Max 346477135.4444353
+  Avg 34665477.13723083
+  Std 103937220.23407854
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 8843.926954160928
+  Max 10025.143282703131
+  Avg 8962.048587015146
+  Std 354.36489856271044
+-- Generation 3 --
+  Evaluated 8 individuals
+  Min 8843.926954160928
+  Max 15739.514502519147
+  Avg 9533.485708996748
+  Std 2068.6762645074764
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.28014978 0.05489342 0.95328155 0.01742418], (8843.926954160928,)
+{'Total_evaluations': 25, 'Best_action': [0.28014977893669746, 0.054893419110099484, 0.9532815509408098, 0.017424182756321738], 'Minima': 8843.926954160928}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 9089.186875642092
+  Max 46478.885404773086
+  Avg 27752.646251080085
+  Std 13491.180798845122
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 9089.186875642092
+  Max 399243873.76698524
+  Avg 39948657.933411285
+  Std 119765075.40146373
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 8855.19655219122
+  Max 399243873.76698524
+  Avg 39933171.47235785
+  Std 119770234.10476601
+-- End of (successful) evolution --
+Total evaluations: 23 
+
+Best individual is [0.12106572 0.38889516 0.84820991 0.10476415], (8855.19655219122,)
+{'Total_evaluations': 23, 'Best_action': [0.12106572051990405, 0.38889516439487704, 0.8482099145599599, 0.10476415343533152], 'Minima': 8855.19655219122}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 7080.869857708934
+  Max 15086.876568901198
+  Avg 11070.30924444732
+  Std 2334.8938550434514
+-- Generation 2 --
+  Evaluated 8 individuals
+  Min 7080.869857708934
+  Max 11799.559457988244
+  Avg 9130.737696127206
+  Std 2062.017270483205
+-- Generation 3 --
+  Evaluated 6 individuals
+  Min 7080.869857708934
+  Max 11799.559457988244
+  Avg 8807.782053500825
+  Std 2128.3751402873663
+-- End of (successful) evolution --
+Total evaluations: 21 
+
+Best individual is [0.45102214 0.86466562 0.61002135 0.13963146], (7080.869857708934,)
+{'Total_evaluations': 21, 'Best_action': [0.4510221368237919, 0.8646656167445498, 0.6100213488499489, 0.1396314645089367], 'Minima': 7080.869857708934}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 7 individuals
+  Min 5432.291068423958
+  Max 50547.983027835195
+  Avg 18755.316433098396
+  Std 14517.85709365408
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 5432.291068423958
+  Max 25350.42254278857
+  Avg 9288.037341376275
+  Std 6157.3685479690375
+-- Generation 3 --
+  Evaluated 5 individuals
+  Min 5432.291068423958
+  Max 6456.963083653239
+  Avg 5604.650258988903
+  Std 291.6459558638022
+-- End of (successful) evolution --
+Total evaluations: 19 
+
+Best individual is [0.30788832 0.55446741 0.13359112 0.33330119], (5432.291068423958,)
+{'Total_evaluations': 19, 'Best_action': [0.30788831920659276, 0.5544674109142712, 0.13359112435945508, 0.3333011940012198], 'Minima': 5432.291068423958}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 9 individuals
+  Min 12404.847671697966
+  Max 279037743.26787096
+  Avg 27932859.25632485
+  Std 83701630.19519183
+-- Generation 2 --
+  Evaluated 7 individuals
+  Min 12404.847671697966
+  Max 24175.70245554762
+  Avg 16728.59667957524
+  Std 5318.453873594464
+-- Generation 3 --
+  Evaluated 8 individuals
+  Min 7972.818206562293
+  Max 12404.847671697966
+  Avg 11961.644725184397
+  Std 1329.6088395407173
+-- End of (successful) evolution --
+Total evaluations: 24 
+
+Best individual is [0.51605723 0.77630717 0.30292856 0.19564723], (7972.818206562293,)
+{'Total_evaluations': 24, 'Best_action': [0.516057233249222, 0.7763071662394092, 0.302928558417902, 0.19564723214594704], 'Minima': 7972.818206562293}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 6 individuals
+  Min 939.9883291906825
+  Max 248122353.06973815
+  Avg 24818519.643203106
+  Std 74434611.45477654
+-- Generation 2 --
+  Evaluated 10 individuals
+  Min 939.9883291906825
+  Max 19201.080562528565
+  Avg 6812.4913356180405
+  Std 5891.56332316498
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 939.9883291906825
+  Max 9528.906521756258
+  Avg 2657.7719677037967
+  Std 3435.56727702623
+-- End of (successful) evolution --
+Total evaluations: 25 
+
+Best individual is [0.37336236 0.61180503 0.49003765 0.27797438], (939.9883291906825,)
+{'Total_evaluations': 25, 'Best_action': [0.37336236173300064, 0.6118050291314198, 0.4900376459747553, 0.2779743777984649], 'Minima': 939.9883291906825}
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 10 individuals
+-- Generation 1 --
+  Evaluated 9 individuals
+  Min 5956.99462270201
+  Max 2555772.3832574533
+  Avg 269012.35830808186
+  Std 762358.4856061966
+-- Generation 2 --
+  Evaluated 5 individuals
+  Min 5956.99462270201
+  Max 207360234.18064782
+  Avg 20741749.190945096
+  Std 62206161.67272554
+-- Generation 3 --
+  Evaluated 7 individuals
+  Min 5956.99462270201
+  Max 207360234.18064782
+  Avg 20741384.71322522
+  Std 62206283.155807525
+-- End of (successful) evolution --
+Total evaluations: 21 
+
+Best individual is [0.15890439 0.55597371 0.25927061 0.20661313], (5956.99462270201,)
+{'Total_evaluations': 21, 'Best_action': [0.15890439385183197, 0.5559737114455009, 0.2592706085145742, 0.20661313187849562], 'Minima': 5956.99462270201}

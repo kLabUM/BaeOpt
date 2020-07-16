@@ -1,0 +1,393 @@
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 20 individuals
+-- Generation 1 --
+  Evaluated 13 individuals
+  Min 6009.392267772381
+  Max 94913000003175.47
+  Avg 12867400006284.355
+  Std 30742868904016.93
+-- Generation 2 --
+  Evaluated 12 individuals
+  Min 349.11429887880035
+  Max 7451.109942401436
+  Avg 6082.872846962478
+  Std 1398.8228181430704
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 349.11429887880035
+  Max 6350.890802389089
+  Avg 4909.491277082509
+  Std 2282.1119320780576
+-- Generation 4 --
+  Evaluated 18 individuals
+  Min 349.11429887880035
+  Max 97924000001316.69
+  Avg 26237200002207.86
+  Std 40434267662287.85
+-- Generation 5 --
+  Evaluated 12 individuals
+  Min 349.11429887880035
+  Max 98351000000000.0
+  Avg 4917550001453.431
+  Std 21435103499475.0
+-- Generation 6 --
+  Evaluated 16 individuals
+  Min 349.11429887880035
+  Max 178028000000000.0
+  Avg 25137750000279.293
+  Std 55237349620283.72
+-- Generation 7 --
+  Evaluated 12 individuals
+  Min 349.11429887880035
+  Max 78955000000000.0
+  Avg 7462500000594.005
+  Std 22429334502858.85
+-- Generation 8 --
+  Evaluated 17 individuals
+  Min 349.11429887880035
+  Max 42300000000363.81
+  Avg 2115000000349.851
+  Std 9219071265591.727
+-- Generation 9 --
+  Evaluated 15 individuals
+  Min 349.11429887880035
+  Max 93681000000209.1
+  Avg 4684050000342.113
+  Std 20417300596461.176
+-- End of (successful) evolution --
+Total evaluations: 124 
+
+Best individual is [0.06662892 0.85035373 0.58448691 0.13329038 0.55540696 0.06394254
+ 0.07044436 0.0995085  0.         0.92442559 0.70810326], (349.11429887880035,)
+
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project data
+ o  Retrieving project dataStart of evolution
+  Evaluated 20 individuals
+-- Generation 1 --
+  Evaluated 14 individuals
+  Min 1738.168634489749
+  Max 83876000002702.31
+  Avg 4425300006419.364
+  Std 18255074189872.29
+-- Generation 2 --
+  Evaluated 10 individuals
+  Min 384.31231495817644
+  Max 8335.838471051304
+  Avg 4872.92044836767
+  Std 2466.0287308778597
+-- Generation 3 --
+  Evaluated 9 individuals
+  Min 388.4083373969851
+  Max 8216.986036090548
+  Avg 2913.1556919614554
+  Std 2205.488737703076
+-- Generation 4 --
+  Evaluated 12 individuals
+  Min 388.4083373969851
+  Max 42219000001280.95
+  Avg 2110950001105.0488
+  Std 9201417724907.541
+-- Generation 5 --
+  Evaluated 14 individuals
+  Min 35.51927900567946
+  Max 81559000000000.0
+  Avg 10993050000596.443
+  Std 26486769984931.887
+-- Generation 6 --
+  Evaluated 14 individuals
+  Min 35.51927900567946
+  Max 93702000000000.0
+  Avg 8162500000405.261
+  Std 24783523743480.24
+-- Generation 7 --
+  Evaluated 11 individuals
+  Min 35.51927900567946
+  Max 175763000000000.0
+  Avg 18039900000445.484
+  Std 45555176135117.18
+-- Generation 8 --
+  Evaluated 13 individuals
+  Min 35.51927900567946
+  Max 193498000000293.75
+  Avg 12270400000277.305
+  Std 42592226898115.664
+-- Generation 9 --
+  Evaluated 10 individuals
+  Min 35.51927900567946
+  Max 98314000000000.0
+  Avg 13368350000154.295
+  Std 28953671565539.9
+-- End of (successful) evolution --
+Total evaluations: 107 
+
+Best individual is [0.12957615 0.41463523 0.6184913  0.21030673 0.19018948 0.04316424
+ 0.89616832 0.26356116 0.         0.33983536 0.75777962], (35.51927900567946,)
