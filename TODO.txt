@@ -1,3 +1,0 @@
-1. Run scalability simulation on flux.
-2. Run uncertanity test
-	1. GP and acquisition function.

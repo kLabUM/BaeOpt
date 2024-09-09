@@ -1,4 +1,3 @@
-from pyswmm_lite import environment
 import pystorms
 import numpy as np
 import os
